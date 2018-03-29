@@ -18,5 +18,11 @@ public class tikar {
       void cetakInfo(){
           System.out.println("Panjang       :"+lebar);
           System.out.println("Panjang       :"+panjang); 
-}
+    }
+     
+    double hitungluas (){
+        double luas;
+        luas=panjang*lebar;
+        return luas;
+    }
 }

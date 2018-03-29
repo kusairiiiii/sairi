@@ -6,5 +6,6 @@ public class tikaraksi {
             r1.lebar = 4;
             
             r1.cetakInfo();
+           
     }
 }
