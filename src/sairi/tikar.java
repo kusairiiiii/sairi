@@ -25,4 +25,10 @@ public class tikar {
         luas=panjang*lebar;
         return luas;
     }
+    
+          double hitungLuas (){
+          double luas;
+          luas=panjang*lebar;
+          return luas;
+          }
 }
